@@ -1,9 +1,9 @@
 # X-UA-Compatible Header #
 
-- Version: 1.0
+- Version: 1.1
 - Author: Nick Baker
-- Build Date: 21st October 2011
-- Requirements: Symphony 2.*
+- Build Date: 5th June 2012
+- Requirements: Symphony 2.3
 
 
 ## Description
@@ -27,6 +27,10 @@ Once installed and enabled, there is nothing left to do - I considered adding pr
 
 
 ## Changelog
+
+**Version 1.1**
+
+- Updated for Symphony 2.3
 
 **Version 1.0**
 
