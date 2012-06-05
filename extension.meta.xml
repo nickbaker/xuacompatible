@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="xuacompatible" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+
+	<name>X-UA-Compatible Header</name>
+
+	<description lang="en">Adds a X-UA-Compatible header to HTTP response to discourage IE from entering compatibility mode.</description>
+
+	<repo type="github">https://github.com/nickbaker/xuacompatible</repo>
+
+	<types>
+		<type>Other</type>
+	</types>
+
+	<authors>
+		<author>
+			<name github="nickbaker" symphony="nickbaker">Nick Baker</name>
+			<email>nick@digitalsunshine.com.au</email>
+		</author>
+	</authors>
+
+	<releases>
+		<release version="1.1" date="2012-06-05" min="2.3" />
+		<release version="1.0" date="2011-10-21" min="2.2" />
+	</releases>
+
+</extension>
